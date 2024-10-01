@@ -16,7 +16,6 @@ This project is a Python script that scrapes rental property listings from a Zil
 - Scrapes rental property links, addresses, and prices from a Zillow clone website.
 - Cleans and formats the scraped data for submission.
 - Utilizes BeautifulSoup for web scraping and Selenium for automating the form submission.
-- Handles up to 5 entries in a single run.
 
 ## Technologies Used
 
