@@ -7,7 +7,7 @@ This project is a Python script that scrapes rental property listings from a Zil
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
+- [Contributing](#Contributing)
 
 ## Features
 
